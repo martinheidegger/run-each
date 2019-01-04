@@ -1,7 +1,7 @@
 {
   "name": "run-each",
   "version": "1.0.0",
-  "description": ".",
+  "description": "A very small, flexible, parallel async iteration helper that has first-class support for Iterators and concurrency.",
   "main": "index.js",
   "scripts": {
     "test": "npm run test:lint && npm run test:unit",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martinheidegger/flexlock-cb.git"
+    "url": "git+https://github.com/martinheidegger/run-each.git"
   },
   "bugs": {
-    "url": "https://github.com/martinheidegger/flexlock-cb/issues"
+    "url": "https://github.com/martinheidegger/run-each/issues"
   },
-  "homepage": "https://github.com/martinheidegger/flexlock-cb#readme"
+  "homepage": "https://github.com/martinheidegger/run-each#readme"
 }
