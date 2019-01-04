@@ -1,5 +1,5 @@
 'use strict'
-const setImmediate = require('set-immediate-shim')
+const setImmediate = require('setimmediate2').setImmediate
 const linkedList = require('./lib/linked-list.js')
 
 function noop () {}

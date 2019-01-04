@@ -30,7 +30,7 @@
     "test": "test"
   },
   "dependencies": {
-    "set-immediate-shim": "^2.0.0"
+    "setimmediate2": "^3.0.0"
   },
   "repository": {
     "type": "git",

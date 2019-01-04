@@ -1,7 +1,7 @@
 'use strict'
 const test = require('tap').test
 const runEach = require('../index.js').runEach
-const setImmediate = require('set-immediate-shim')
+const setImmediate = require('setimmediate2').setImmediate
 
 test('simply executing an array', function () {
   return runEach([])
